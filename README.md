@@ -1,6 +1,7 @@
 # App em Flutter para consultar CEP (Código de Endereçamento Postal)
 
 Desafio de projeto proposto pela DIO, no Bootcamp de mobile com flutter. Criar uma aplicação em flutter para realizar a consulta a um CEP e colocar em uma lista as suas principais informações.
+Utilizando APIs do ViaCep e o banco não-relacional Back4App.
 
 ## 🚀 Funcionamento
 Iniciar a aplicação no VS Code juntamente com emulador do Android Studio:
